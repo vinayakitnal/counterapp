@@ -1,0 +1,61 @@
+.container {
+    border: 2px solid black;
+    margin-top: 30px;
+    font-size: 20px;
+    color: rgb(12, 12, 12);
+    width: 25%;
+    padding: 23px;
+    background-color: gray;
+    border-radius: 20px;
+    margin-left: 500px;
+}
+
+#increase {
+    background-color: blueviolet;
+    color: black;
+    font-weight: 500;
+    border-radius: 20px;
+}
+
+#decrease {
+    background-color: blueviolet;
+    color: black;
+    font-weight: 500;
+    border-radius: 20px;
+}
+
+#reset {
+    background-color: blueviolet;
+    color: black;
+    font-weight: 500;
+    border-radius: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    background-color: rgb(143, 39, 39);
+    text-align: center;
+    border-radius: 10px;
+}
+
+#count {
+    background-color: rgb(220, 213, 12);
+    text-align: center;
+    border-radius: 10px;
+}
+
+#decrease:hover {
+    background-color: darkorange;
+}
+
+#reset:hover {
+    background-color: darkorange;
+}
+
+#increase:hover {
+    background-color: darkorange;
+}
+
+* {
+    background-color: rgba(38, 151, 53, 0.619);
+}
